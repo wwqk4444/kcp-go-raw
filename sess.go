@@ -9,7 +9,7 @@ import (
 	"github.com/wwqk4444/ccsexyz_utils"
 
 	"github.com/wwqk4444/mulcon"
-	"github.com/wwqk4444/rawcon"
+	"github.com/zhengying/rawcon"
 	"github.com/pkg/errors"
 	kcp "github.com/wwqk4444/kcp-go"
 )
